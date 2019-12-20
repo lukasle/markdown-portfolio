@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+- coding
+- Italian food
+- the color red
+- football
+- gadgets
